@@ -1,0 +1,21 @@
+!.gitignore
+!.gitkeep
+
+# IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+
+# Eclipse
+.classpath
+.project
+*.eml
+*.userlibraries
+
+# SBT
+project/project/
+project/target/
+target/
